@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Lucian
 - 👀 I’m interested in ... Information Technology
 - 🌱 I’m currently learning ... BSC in Information Technology 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
 <!---
